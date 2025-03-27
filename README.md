@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Rickra1n&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickra1n&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
@@ -25,7 +25,7 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mistra1n_Ricko/Mistra1n_Ricko/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mistra1n_Ricko/Mistra1n_Ricko/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Mistra1n_Ricko/Mistra1n_Ricko/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mistra1n_Ricko/Rickra1n_Portfolio/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mistra1n_Ricko/Rickra1n_Portfolio/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Mistra1n_Ricko/Rickra1n_Portfolio/output/github-snake.svg" />
 </picture>
