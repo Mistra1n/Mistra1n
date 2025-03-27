@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rickr4in@gmail.com**
 
-- ⚡ Fun fact **Am an EthicalHacker**
+- ⚡ Fun fact **i Am an EthicalHacker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
