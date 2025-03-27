@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rickra1n</h1>
-# 💫 About Me:
+
 - 🔭 I’m currently working on **Red Team Security**<br><br>- 🌱 I’m currently learning **Cyber Security**<br><br>- 👯 I’m looking to collaborate on **Bugbounty**<br><br>- 🤝 I’m looking for help with **Bugbounty**<br><br>- 📫 How to reach me **rickr4in@gmail.com**<br><br>- ⚡ Fun fact **Am an EthicalHacker**
 
 
