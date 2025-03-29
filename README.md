@@ -1,4 +1,6 @@
+[![MasterHead](https://blog.tryhackme.com/content/images/2023/03/Content-Banner---updated.png)
 <h1 align="center">Hi 👋, I'm Rickra1n</h1>
+(img align="right" alt="Coding" width="400" src="https://38.media.tumblr.com/aec73d7bd6052acee3c6f7c75cf91a1c/tumblr_mfnckc30Gu1qze3hdo1_r1_500.gif"
 - 🔭 I’m currently working on **Red Team Security**<br><br>- 🌱 I’m currently learning **Cyber Security**<br><br>- 👯 I’m looking to collaborate on **Bugbounty**<br><br>- 🤝 I’m looking for help with **Bugbounty**<br><br>- 📫 How to reach me **rickr4in@gmail.com**<br><br>- ⚡ Fun fact **Am an EthicalHacker**
 
 
